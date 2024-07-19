@@ -7,4 +7,4 @@ Eye Candy is a sleek, open-source screen recorder for linux, designed to make ca
 🟩 Custom Area Recording
 
 # Installation
-
+Eyecandy right now on development phase, beta version will be realeased on 20 July, 2024
